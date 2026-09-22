@@ -31,7 +31,10 @@ Servo Signal —-\>D6l
 Servo VCC —-\>5V
 
 Servo GND —-\>GND  
-![][image1]  
+
+![image1] <img width="832" height="1306" alt="RESULT4" src="https://github.com/user-attachments/assets/3ae43cec-358f-488a-9deb-aa62a0ff66c7" />
+
+
 5\. Working:  
 The HC-SR04 ultrasonic sensor continuously measures the distance of objects in front of the dustbin.  
 When a hand comes within a preset distance, the sensor sends the information to the Arduino.  
